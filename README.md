@@ -35,8 +35,8 @@
 
 ### Built With
 
-*Intel Quarus Prime Lite
-*Model Sim-Alterra
+* Intel Quarus Prime Lite
+* Model Sim-Alterra
 
 
 
@@ -48,22 +48,22 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-# 1. Clone the repo
+1. Clone the repo
   
   git clone https://github.com/MeenakshiShankar/parking_system
   
-# 2. Install Intel Quartus Prime Lite
+ 2. Install Intel Quartus Prime Lite
    
    Download at https://fpgasoftware.intel.com/?edition=lite
  
-# 3. Create a new project and follow the project wizard to setup the environment
+3. Create a new project and follow the project wizard to setup the environment
    
    Click on Family and choose the Cyclone IV E. Select EP4CE22F17C6 from the Available Device. 
    For Simulation, choose ModelSim-Altera. Also, choose a suitable format (Verilog HDL, VHDL) as per your requirement
  
-# 4. Copy,Paste the Verilog File save it in the module name.Compile it to debug.
+4. Copy,Paste the Verilog File save it in the module name.Compile it to debug.
    
-# 5. Copy,Paste the Verilog Testbench File save it in the module name.
+ 5. Copy,Paste the Verilog Testbench File save it in the module name.
    
      In the General category, Select EDA Tool Options.
      A dialogue box appears, where you can specify the path of Modelsim-Altera executable file. And Click OK.
@@ -75,14 +75,14 @@ To get a local copy up and running follow these simple steps.
      Select simulation/modelsim as the Output Directory.
      Under NativeLink Settings, Choose Compile Test Bench→ Test Benches. 
    
-  # 6. Copy,Paste the Verilog Testbench File save it in the module name.
+   6. Copy,Paste the Verilog Testbench File save it in the module name.
      
    Goto menu Processing →Start→Start Analysis & Elaboration. 
    After this Click on Processing →Start→Start Analysis & Synthesis on the same drop box.
    These step checks the error and collects all file name information and builds the design hierarchy for simulation.
    
    
-  # 7. Copy,Paste the Verilog File save it in the module name.Compile it to debug.
+   7. Copy,Paste the Verilog File save it in the module name.Compile it to debug.
    
    Go to menu Tools → Run Simulation Tool → RTL Simulation.
    It & automatically run EDA simulator (ModelSim-Altera) and compiles all necessary design files.
