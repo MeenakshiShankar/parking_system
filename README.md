@@ -18,7 +18,9 @@
      This Repo contains the verilog HDL code to implement a password based car-parking system operator.
      The above picture is the state machine logic implemented.
      Feel free to fork the repo to try and modify the logic to your interest.
-  
+     
+  Kindly give the project a  star if you find it useful.
+     
   You can fine both the verilog code and testbench to it in the repo with a simulation plot.
     <br />
     
