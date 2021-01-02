@@ -7,11 +7,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/MeenakshiShankar/parking_system/blob/main/smw-parking.png">
+  <a href="https://github.com/MeenakshiShankar/parking_system/smw-parking.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Car Parking System</h3>
 
   <p align="center">
     Welcome to My Github Page!
@@ -27,44 +27,16 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-       
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
 ### Built With
 
-* [Intel Quarus Prime Lite]
-* [Model Sim-Alterra]
+*Intel Quarus Prime Lite
+*Model Sim-Alterra
 
 
 
@@ -73,8 +45,6 @@ Here's a blank template to get started:
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-
-
 
 ### Installation
 
@@ -94,9 +64,7 @@ To get a local copy up and running follow these simple steps.
    ```
 
  4. Copy,Paste the Verilog File save it in the module name.Compile it to debug.
-   ```sh
    
-   ```
  5. Copy,Paste the Verilog Testbench File save it in the module name.
     ```sh
      In the General category, Select EDA Tool Options.
@@ -116,7 +84,9 @@ To get a local copy up and running follow these simple steps.
    These step checks the error and collects all file name information and builds the design hierarchy for simulation.
    
    ```
+   
    7. Copy,Paste the Verilog File save it in the module name.Compile it to debug.
+   
    ```sh
    Go to menu Tools → Run Simulation Tool → RTL Simulation.
    It & automatically run EDA simulator (ModelSim-Altera) and compiles all necessary design files.
@@ -127,8 +97,8 @@ To get a local copy up and running follow these simple steps.
 <!-- CONTACT -->
 ## Contact
 
-Meenakshi Shankar - [@LinkedIn_handle](www.linkedin.com/in/meenakshi-shankar-022961190) 
-Email - meenakshishankar.mec@gmail.com
+*Meenakshi Shankar - [@LinkedIn_handle](www.linkedin.com/in/meenakshi-shankar-022961190) 
+*Email - meenakshishankar.mec@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
