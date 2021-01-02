@@ -7,8 +7,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/MeenakshiShankar/parking_system/smw-parking.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a>
+    <img src="smw-parking.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Car Parking System</h3>
