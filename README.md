@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a>
-    <img src="smw-parking.png" alt="Logo" width="800" height="800">
+    <img src="smw-parking.png" alt="Logo" width="900" height="500">
   </a>
 
   <h3 align="center">Car Parking System</h3>
